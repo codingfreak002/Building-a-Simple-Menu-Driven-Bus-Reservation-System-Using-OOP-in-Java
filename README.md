@@ -1,0 +1,2 @@
+# Building-a-Simple-Menu-Driven-Bus-Reservation-System-Using-OOP-in-Java
+This project involves developing a Simple Menu-Driven Bus Reservation System using Object-Oriented Programming (OOP) principles in Java. The primary objective is to create a text-based interface that allows users to perform key operations such as adding bus records, viewing all available buses, checking seat availability, and reserving seats.
